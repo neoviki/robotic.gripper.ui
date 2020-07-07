@@ -1,8 +1,15 @@
 ## Desktop application for a robotic gripper ( Based on Electron.js )
 
+
+
 ![alt text](images/demo.jpeg)
 
+
+
+
 ##  How to run this application
+
+
 	1. git clone <this_repo>
 	2. cd <this_repo>
 	3. cd src
