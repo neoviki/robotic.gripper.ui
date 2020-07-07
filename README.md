@@ -1,9 +1,12 @@
-Desktop application for a robotic gripper we are working on.
+## Desktop application for a robotic gripper ( Based on Electron.js )
 
-![alt text](images/robotic_gripper.jpeg)
+![alt text](images/demo.jpeg)
 
-To run your this electron app do the following:
-
-	1. npm install
-	2. npm start
+##  How to run this application
+	1. git clone <this_repo>
+	2. cd <this_repo>
+	3. cd src
+	4. chmod 777 install.sh
+	5. ./install.sh    [ If there is an error, try running ./install_on_error.sh ]
+	6. ./run.sh
 
